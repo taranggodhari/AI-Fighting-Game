@@ -1,0 +1,198 @@
+fileFormatVersion: 2
+guid: 9761e79920fd7dd4a9e801ca19b7e49b
+timeCreated: 1477599208
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: BG3_0
+    21300002: BG3_1
+    21300004: BG3_2
+    21300006: BG3_3
+    21300008: BG3_4
+    21300010: BG3_5
+    21300012: BG3_6
+    21300014: BG3_7
+    21300016: BG3_8
+    21300018: BG3_9
+    21300020: BG3_10
+    21300022: BG3_11
+    21300024: BG3_12
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -2
+  maxTextureSize: 8192
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: BG3_0
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 0
+        width: 329
+        height: 517
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BG3_1
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 0
+        width: 184
+        height: 241
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BG3_2
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 0
+        width: 255
+        height: 752
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BG3_3
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 178
+        height: 346
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BG3_4
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 0
+        width: 278
+        height: 489
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BG3_5
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 0
+        width: 294
+        height: 565
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BG3_6
+      rect:
+        serializedVersion: 2
+        x: 1948
+        y: 0
+        width: 251
+        height: 764
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BG3_7
+      rect:
+        serializedVersion: 2
+        x: 2236
+        y: 0
+        width: 255
+        height: 593
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BG3_8
+      rect:
+        serializedVersion: 2
+        x: 2540
+        y: 0
+        width: 198
+        height: 360
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BG3_9
+      rect:
+        serializedVersion: 2
+        x: 2772
+        y: 0
+        width: 371
+        height: 584
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BG3_10
+      rect:
+        serializedVersion: 2
+        x: 3184
+        y: 0
+        width: 243
+        height: 846
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BG3_11
+      rect:
+        serializedVersion: 2
+        x: 3495
+        y: 0
+        width: 229
+        height: 722
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BG3_12
+      rect:
+        serializedVersion: 2
+        x: 3750
+        y: 0
+        width: 266
+        height: 743
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

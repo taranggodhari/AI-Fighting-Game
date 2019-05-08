@@ -1,0 +1,165 @@
+fileFormatVersion: 2
+guid: 171f107281fa87049877141f3dbbfbaa
+timeCreated: 1477756172
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: attak_0
+    21300002: attak_1
+    21300004: attak_2
+    21300006: attak_3
+    21300008: attak_4
+    21300010: attak_5
+    21300012: attak_6
+    21300014: attak_7
+    21300016: attak_8
+    21300018: attak_9
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: attak_0
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 676
+        width: 218
+        height: 329
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: attak_1
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 676
+        width: 209
+        height: 331
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: attak_2
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 673
+        width: 225
+        height: 332
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: attak_3
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 676
+        width: 369
+        height: 332
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: attak_4
+      rect:
+        serializedVersion: 2
+        x: 1754
+        y: 673
+        width: 372
+        height: 326
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: attak_5
+      rect:
+        serializedVersion: 2
+        x: 2222
+        y: 673
+        width: 399
+        height: 316
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: attak_6
+      rect:
+        serializedVersion: 2
+        x: 2774
+        y: 670
+        width: 397
+        height: 319
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: attak_7
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 108
+        width: 399
+        height: 320
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: attak_8
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 108
+        width: 314
+        height: 320
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: attak_9
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 108
+        width: 288
+        height: 324
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
